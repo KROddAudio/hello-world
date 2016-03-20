@@ -1,2 +1,5 @@
 # hello-world
-Describe
+
+About myself
+This is me
+Writing
